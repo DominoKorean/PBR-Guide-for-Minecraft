@@ -1,4 +1,4 @@
-# <mark style="color:#6FDC9B;">PBR 텍스쳐맵이란?</mark>
+# <mark style="color:RED;">PBR 텍스쳐맵이란?</mark>
 
 PBR은 물리 기반 렌더링(Physically based rendering)의 약자로  
 PBR텍스쳐맵은 PBR 머터리얼을 비트맵 방식으로 저장해 불러오는 방식이다.
