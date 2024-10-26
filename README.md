@@ -10,5 +10,5 @@
 
 * [PBR 텍스쳐맵이란?](./)
 
-> \[!NOTE] 아직 작성중\
+> [!NOTE] 아직 작성중
 > https://dominokorean.gitbook.io/mcpbr.ko
