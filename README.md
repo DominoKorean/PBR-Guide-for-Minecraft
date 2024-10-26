@@ -8,7 +8,7 @@
 
 ***
 
-* [PBR 텍스쳐맵이란?](start/about\_pbr.md)
+* [PBR 텍스쳐맵이란?](start/about_pbr.md)
 
 > [!NOTE] 아직 작성중
 > https://dominokorean.gitbook.io/mcpbr.ko
